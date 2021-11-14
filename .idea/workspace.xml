@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77b55cd8-565e-42b0-a311-8e48be940d90" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CS20411-reversi游戏-最大最小算法/src/MoveChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS21A-assignment2-数据结构/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/clerk.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/letters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/src/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/src/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSC8012-售票cmd/src/SortedArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI-201-Assignment3-运送系统-TCPP/easy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI-201-Assignment3-运送系统-TCPP/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/AnnotationUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/ClassElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/ClassField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/ClassMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/ClassObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/ClassUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/QuickCheckAnnotationUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/QuickCheckProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QuickCheckForJunit-手写单元测试逻辑/src/QuickCheckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../小作业全集/10-计算器拓展/src/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../计算器拓展/src/MemoryCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../计算器拓展/src/ScientificCalcDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../计算器拓展/src/ScientificMemCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMP2511-LoopMania-游戏" beforeDir="false" afterPath="$PROJECT_DIR$/../COMP2511-LoopMania-游戏" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMP9120-A2-加DB操作/COMP9120-A2-加DB操作/src/Data/PostgresRepositoryProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../COMP9120-A2-加DB操作/COMP9120-A2-加DB操作/src/Data/PostgresRepositoryProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INFO1113-Assignment2-Scaffold/第二份/src/main/java/demolition/uitl/ConstantsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../INFO1113-Assignment2-Scaffold/第二份/src/main/java/demolition/uitl/ConstantsUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MAT00027I-双复数运算/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/../MAT00027I-双复数运算/package.bluej" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jmt-code/jmt-code" beforeDir="false" afterPath="$PROJECT_DIR$/../jmt-code/jmt-code" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../数独-gui" beforeDir="false" afterPath="$PROJECT_DIR$/../数独-gui" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\work\tool\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20u8sDYMrHv8AIbam9o9SkHHdAD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="类设计-blueJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77b55cd8-565e-42b0-a311-8e48be940d90" name="Default Changelist" comment="" />
+      <created>1636883316461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636883316461</updated>
+      <workItem from="1636883317934" duration="1772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="39" key="#com.intellij.ide.util.MemberChooser" timestamp="1636883610547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="39" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1636883610547" />
+    <state width="1483" height="379" key="GridCell.Tab.0.bottom" timestamp="1636884555116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="379" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1636884555116" />
+    <state width="1483" height="379" key="GridCell.Tab.0.center" timestamp="1636884555116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="379" key="GridCell.Tab.0.center/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1636884555116" />
+    <state width="1483" height="379" key="GridCell.Tab.0.left" timestamp="1636884555116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="379" key="GridCell.Tab.0.left/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1636884555116" />
+    <state width="1483" height="379" key="GridCell.Tab.0.right" timestamp="1636884555116">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="379" key="GridCell.Tab.0.right/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1636884555116" />
+    <state width="1483" height="379" key="GridCell.Tab.1.bottom" timestamp="1636884554957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="379" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1636884554957" />
+    <state width="1483" height="379" key="GridCell.Tab.1.center" timestamp="1636884554957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="379" key="GridCell.Tab.1.center/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1636884554957" />
+    <state width="1483" height="379" key="GridCell.Tab.1.left" timestamp="1636884554957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="379" key="GridCell.Tab.1.left/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1636884554957" />
+    <state width="1483" height="379" key="GridCell.Tab.1.right" timestamp="1636884554957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="379" key="GridCell.Tab.1.right/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1636884554957" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1636884415592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1536.824/1920.-1076.2560.1400@0.0.1536.824" timestamp="1636884415592" />
+  </component>
+</project>
